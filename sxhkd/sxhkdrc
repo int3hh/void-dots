@@ -1,0 +1,11 @@
+#  ------ programs  -------- # 
+
+super + Return
+      alacritty
+
+super + t
+      tabbed -r 2 st -w ''
+
+super + c
+        rofi -show drun
+
